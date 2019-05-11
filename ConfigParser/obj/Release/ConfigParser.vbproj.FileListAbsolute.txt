@@ -1,0 +1,8 @@
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\bin\Release\ConfigParser.dll
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\bin\Release\ConfigParser.pdb
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\bin\Release\ConfigParser.xml
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\obj\Release\ConfigParser.Resources.resources
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\obj\Release\ConfigParser.vbproj.GenerateResource.Cache
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\obj\Release\ConfigParser.dll
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\obj\Release\ConfigParser.xml
+C:\Users\Acer7720\Desktop\ConfigParser\ConfigParser\obj\Release\ConfigParser.pdb
